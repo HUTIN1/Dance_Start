@@ -6,3 +6,6 @@
 
 [Allez voir le sujet du TP ici](http://alexandre.meyer.pages.univ-lyon1.fr/m2-apprentissage-profond-image/am/tp_dance/)
 
+
+Les models pour les réseaux de neuroones sont disponible dans les [Releases](https://github.com/HUTIN1/Dance_Start/releases/tag/1.0)
+
